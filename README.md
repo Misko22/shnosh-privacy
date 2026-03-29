@@ -1,15 +1,17 @@
-**The people who matter are one tap away.**
+<p align="center">
+  <img src="shnosh-banner.png" alt="SHnoSH" width="100%"/>
+</p>
 
-SHnoSH is a personal connection app that lets you send emoji-based check-ins to the people you care about, no matter where in the world they are. No chats, no pressure, just one tap to say "I'm thinking of you."
+SHnoSH is a one-tap connection app for families and friends separated by distance. No chats. No pressure. Just pick an emoji or a phrase, and your person knows they crossed your mind.
 
-## Links
+79 curated phrases across Warm, Funny, Miss, Care, and 🇦🇱 Shqip. Timezone-aware contact cards so you always know when to reach out. Streaks to keep the love going.
 
-- [Privacy Policy](https://misko22.github.io/shnosh-privacy/)
-- [Support](https://docs.google.com/forms/d/e/1FAIpQLScEpOTw_oqH-0I247l7LnGfn82n0kGTIl_HEk0-iYFRS4PllQ/viewform)
-- App Store (coming soon)
+Whether your mami is in Tirana or your best friend moved to Berlin, SHnoSH is the fastest, gentlest way to say: I'm thinking of you.
 
-## About
+---
 
-Built by [Joana Bala](www.linkedin.com/in/joana-bala-a71881130) under the TechAna brand.
+🔒 [Privacy Policy](https://misko22.github.io/shnosh-privacy/) · 💬 [Support](https://docs.google.com/forms/d/e/1FAIpQLScEpOTw_oqH-0I247l7LnGfn82n0kGTIl_HEk0-iYFRS4PllQ/viewform) · 📱 App Store (coming soon)
 
-Made with 🤍 in Toronto.
+---
+
+<p align="center">Built with 🤍 in Toronto by <a href="https://www.linkedin.com/in/joana-bala-a71881130/">Joana Bala</a> · <a href="https://www.instagram.com/techana">TechAna</a></p>
