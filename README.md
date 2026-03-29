@@ -6,7 +6,7 @@ SHnoSH is a one-tap connection app for families and friends separated by distanc
 
 79 curated phrases across Warm, Funny, Miss, Care, and 🇦🇱 Shqip. Timezone-aware contact cards so you always know when to reach out. Streaks to keep the love going.
 
-Whether your mami is in Tirana or your best friend moved to Berlin, SHnoSH is the fastest, gentlest way to say: I'm thinking of you.
+ SHnoSH is the fastest, gentlest way to say: I'm thinking of you.
 
 ---
 
@@ -14,4 +14,4 @@ Whether your mami is in Tirana or your best friend moved to Berlin, SHnoSH is th
 
 ---
 
-<p align="center">Built with 🤍 in Toronto by <a href="https://www.linkedin.com/in/joana-bala-a71881130/">Joana Bala</a> · <a href="https://www.instagram.com/techana">TechAna</a></p>
+<p align="center">Built with 🤍 in Toronto by <a href="https://www.linkedin.com/in/joana-bala-a71881130/">Joana Bala</a> · <a href="https://www.instagram.com/techana._/">TechAna</a></p>
